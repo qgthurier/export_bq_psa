@@ -1,0 +1,9 @@
+application: psa-dna-netbooster
+version: 1
+runtime: python27
+api_version: 1
+
+handlers:
+- url: /export/daily
+  script: export.app
+  login: admin

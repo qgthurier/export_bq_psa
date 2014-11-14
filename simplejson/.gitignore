@@ -1,0 +1,7 @@
+/__init__.pyc
+/compat.pyc
+/decoder.pyc
+/encoder.pyc
+/ordered_dict.pyc
+/scanner.pyc
+/tool.pyc

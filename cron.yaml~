@@ -1,0 +1,7 @@
+cron:
+- description: daily extract for Havas
+  url: /extract/launch
+  schedule: every day 13:15
+  timezone: Europe/Paris
+  target: 1
+
